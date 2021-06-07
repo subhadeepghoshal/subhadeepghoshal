@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subhadeepghoshal
+- 👋 Hi, I’m Subhadeep Ghoshal
 - 👀 I’m interested in Web Application Development, Polyglot Persistance, Cloud Native Patterns
 - 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on ...
