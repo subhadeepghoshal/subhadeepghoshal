@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subhadeep Ghoshal
 - 👀 I’m interested in Web Application Development, Polyglot Persistance, Cloud Native Patterns
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning AI/ML
 - 📫 My email id is subhadeep.ghoshal@gmail.com
 <!---
 subhadeepghoshal/subhadeepghoshal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
